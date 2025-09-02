@@ -17,14 +17,16 @@
 
 ANNEXURE
 
-  [ANNEX A](AnnexA.pdf)
+  [ANNEX A List of referred Indian Standards](AnnexA.pdf)
 
-  [ANNEX B](AnnexB.pdf)
+  [ANNEX B Structural Design(Working Stress Method)](AnnexB.pdf)
 
-  [ANNEX C](AnnexC.pdf)
+  [ANNEX C Calculation of Deflection](AnnexC.pdf)
 
-  [ANNEX D](AnnexD.pdf)
+  [ANNEX D Slab spanning in two direction](AnnexD.pdf)
 
-  [ANNEX E](AnnexE.pdf)
+  [ANNEX E Effective length of Column](AnnexE.pdf)
 
-  [ANNEX F](AnnexF.pdf)
+  [ANNEX F Calculation of Crack Width](AnnexF.pdf)
+
+  [ANNEX G Moment of resistance for rectangular section](AnnexG.pdf)
