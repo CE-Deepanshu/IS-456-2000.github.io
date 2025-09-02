@@ -19,4 +19,6 @@ ANNEXURE
 
   [ANNEX A](AnnexA.pdf)
 
-  [ANNEX B]
+  [ANNEX B](AnnexB.pdf)
+
+  [ANNEX C](
