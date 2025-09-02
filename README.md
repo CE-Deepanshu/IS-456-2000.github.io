@@ -27,10 +27,8 @@ ANNEXURE
 
   [ANNEX E Effective length of Column](AnnexE.pdf)
 
-  [ANNEX F Calculation of Crack Width]
-
   [ANNEX F Calculation of Crack Width](AnnexF.pdf)
 
   [ANNEX G Moment of resistance for rectangular section](AnnexG.pdf)
 
-  [ANNEX H COMMIITEE COMPOSITION](
+  [ANNEX H COMMIITEE COMPOSITION](AnnexH.pdf)
