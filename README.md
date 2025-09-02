@@ -1,5 +1,5 @@
 # IS-456-2000.github.io
-                                  IS 456 : 2000 Plain and Reinforced Concrete - Code of Practice
+                                  [IS 456 : 2000 Plain and Reinforced Concrete - Code of Practice]
 
 [Foreword](Foreword.pdf.pdf)
 
@@ -17,18 +17,18 @@
 
 ANNEXURE
 
-  [ANNEX A List of referred Indian Standards](AnnexA.pdf)
+ 1. [ANNEX A List of referred Indian Standards](AnnexA.pdf)
+  
+ 2. [ANNEX B Structural Design(Working Stress Method)](AnnexB.pdf)
 
-  [ANNEX B Structural Design(Working Stress Method)](AnnexB.pdf)
+ 3. [ANNEX C Calculation of Deflection](AnnexC.pdf)
 
-  [ANNEX C Calculation of Deflection](AnnexC.pdf)
+ 4. [ANNEX D Slab spanning in two direction](AnnexD.pdf)
 
-  [ANNEX D Slab spanning in two direction](AnnexD.pdf)
+ 5. [ANNEX E Effective length of Column](AnnexE.pdf)
 
-  [ANNEX E Effective length of Column](AnnexE.pdf)
+ 6. [ANNEX F Calculation of Crack Width](AnnexF.pdf)
 
-  [ANNEX F Calculation of Crack Width](AnnexF.pdf)
+ 7. [ANNEX G Moment of resistance for rectangular section](AnnexG.pdf)
 
-  [ANNEX G Moment of resistance for rectangular section](AnnexG.pdf)
-
-  [ANNEX H COMMIITEE COMPOSITION](AnnexH.pdf)
+ 8. [ANNEX H COMMIITEE COMPOSITION](AnnexH.pdf)
