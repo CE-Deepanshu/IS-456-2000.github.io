@@ -26,3 +26,5 @@ ANNEXURE
   [ANNEX D](AnnexD.pdf)
 
   [ANNEX E](AnnexE.pdf)
+
+  [ANNEX F](AnnexF.pdf)
