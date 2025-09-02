@@ -17,4 +17,6 @@ IS 456 : 2000 Plain and Reinforced Concrete - Code of Practice
 
 ANNEXURE
 
-  [ANNEX A]
+  [ANNEX A](AnnexA.pdf)
+
+  [ANNEX B]
