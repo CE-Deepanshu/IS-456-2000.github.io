@@ -35,3 +35,13 @@ ANNEXURE
 
 AMENDMENTS
  1. [Amendment 1(2001)](456A1.pdf)
+
+ 2. [Amendment 2(2005)](456A2.pdf)
+
+ 3. [Amendment 3(2007)](456A3.pdf)
+
+ 4. [Amendment 4(2013)](456A4.pdf)
+
+ 5. [Amendment 5(2019)](456A5.pdf)
+
+ 6. [Amendment 6(2024)](456A6.pdf)
