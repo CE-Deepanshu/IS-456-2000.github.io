@@ -32,3 +32,6 @@ ANNEXURE
  7. [ANNEX G Moment of resistance for rectangular section](AnnexG.pdf)
 
  8. [ANNEX H COMMIITEE COMPOSITION](AnnexH.pdf)
+
+AMENDMENTS
+ 1. [Amendment 1(2001)](456A1.pdf)
