@@ -48,4 +48,3 @@ AMENDMENTS
 
 [COMPOSITION](Capture1.JPG)
 
-[Entrepreneurship](entrepreneur.HTML)
