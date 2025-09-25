@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Entrepreneurial Cycle - SVG</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <style>
+    body {
+      font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      min-height:100vh;
+      margin:0;
+      background:#fff;
+    }
+
+    .container {
+      width:720px;
+      max-width:92vw;
+    }
+
+    svg { display:block; width:100%; height:auto; }
+
+    .cycle-text {
+      font-weight:700;
+      text-anchor:middle;
+      fill:#222;
+      font-size:22px;
+      letter-spacing:1px;
+    }
+    .subtext {
+      font-weight:600;
+      text-transform:uppercase;
+      font-size:14px;
+      fill:#5a1f1f;
+    }
+
+    .arrow-path {
+      fill:none;
+      stroke:#2f8fd3;
+      stroke-width:18;
+      stroke-linecap:round;
+      stroke-linejoin:round;
+      opacity:0.95;
+    }
+
+    .arrow-head {
+      fill:#2f8fd3;
+    }
+
+    /* small label style */
+    .label {
+      font-size:13px;
+      fill:#5a1f1f;
+      font-weight:700;
+      text-transform:uppercase;
+      letter-spacing:0.8px;
+    }
+
+    /* center title style */
+    .center-title {
+      font-size:18px;
+      font-weight:800;
+      letter-spacing:1px;
+      fill:#000;
+    }
+    .center-sub {
+      font-size:14px;
+      font-weight:700;
+      fill:#333;
+    }
+
+    /* make the arrows slightly shadowed */
+    .arrow-shadow {
+      stroke: rgba(0,0,0,0.06);
+      stroke-width:22;
+      stroke-linecap:round;
+      filter: url(#f1);
+    }
+
+    /* responsive tweak */
+    @media (max-width:420px) {
+      .center-title { font-size:15px; }
+      .center-sub   { font-size:12px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Inline SVG: circular arrows + labels -->
+    <svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Entrepreneurial cycle">
+      <defs>
+        <!-- arrowhead marker -->
+        <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5"
+                markerUnits="strokeWidth" markerWidth="8" markerHeight="8" orient="auto">
+          <path d="M 0 0 L 10 5 L 0 10 z" class="arrow-head"/>
+        </marker>
+
+        <!-- soft blur for shadow -->
+        <filter id="f1" x="-50%" y="-50%" width="200%" height="200%">
+          <feGaussianBlur stdDeviation="2" result="blur"/>
+          <feMerge>
+            <feMergeNode in="blur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+      </defs>
+
+      <!-- background faint circle -->
+      <circle cx="400" cy="300" r="220" fill="none" stroke="#e9f4fb" stroke-width="40"/>
+
+      <!-- arrows: draw four curved arcs, each with marker-end -->
+      <!-- Top-right arc (from ~70deg to ~-20deg) -->
+      <path class="arrow-path" d="
+            M 560 160
+            A 240 240 0 0 1 690 300
+          " marker-end="url(#arrow)"/>
+
+      <!-- Right-bottom arc -->
+      <path class="arrow-
